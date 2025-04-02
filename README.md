@@ -37,4 +37,25 @@ sử dụng thêm sự kiện  cho đối tượng  document hoặc body
  - react-router
  # bundle code 
 
-  
+  single page application
+   1 trang web chỉ có 1 trang duy nhất
+   sử dụng  js để  render  nhiều trang web khác nhau 
+   - tránh reload trang web có thể 
+   # BrowserRouter 
+quản lí history của app
+
+# Routes và Route
+# element vs Component 
+# a vs link   a reload trang , link k reload trang
+#Outlet 
+render router con  ben trong route cha
+-nesting -lồng nhau
+
+- link và navlink
+  link không có trạng thái
+  navlink  có trạng thái (thuận tiện hơn về việc design , component, className)
+
+# useNavigate : muốn xử lí khi làm gì đó khi chuyển qua tap mới
+
+Link và NavLink thì không
+# nelify : dùng đưa code lên tên miền chia sẻ người khác dùng
